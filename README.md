@@ -1,4 +1,4 @@
-# Web-Dashboard-using-Google-Looker-Studio
+# Sales Performance Dashboard
 In this project, I performed Web Dashboard Visualization Using Google Looker Studio from a dummy dataset about sales Performance from August - December 2021
 this Dashboard would visualize some metrics  such as :
 - Amount of Unique Buyers
